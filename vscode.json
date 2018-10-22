@@ -1,0 +1,13 @@
+{
+  "files.trimTrailingWhitespace": true,
+  "explorer.autoReveal": false,
+  "files.insertFinalNewline": true,
+  "editor.minimap.enabled": false,
+  "workbench.colorTheme": "Monokai",
+  "breadcrumbs.enabled": true,
+  "gitlens.gitExplorer.location": "explorer",
+  "gitlens.historyExplorer.enabled": false,
+  "files.autoSave": "afterDelay",
+  "editor.scrollBeyondLastLine": false,
+  "editor.renderWhitespace": "boundary"
+}
